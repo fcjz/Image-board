@@ -1,5 +1,5 @@
-# Image-version
-this is a image version by fcjz. like 4chan?
+# Image-board
+this is a image board by fcjz. like 4chan?
 
 这是拿来练手的图像版项目，对标4chan，但没有服务器，目前只是个静态网页，做个样子罢了。
 
